@@ -3,6 +3,7 @@ export enum TZStatsNetwork {
   Zeronet = "https://api.zeronet.tzstats.com",
   Babylonnet = "https://api.babylonnet.tzstats.com",
   Carthagenet = "https://api.carthagenet.tzstats.com",
+  Delphinet = "https://api.delphi.tzstats.com",
   Labnet = "https://api.labnet.tzstats.com",
 }
 

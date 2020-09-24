@@ -13,6 +13,16 @@ export const NETWORKS: ThanosNetwork[] = [
     disabled: false,
   },
   {
+    id: "delphinet",
+    name: "Delphi Testnet",
+    description: "Delphi testnet",
+    type: "test",
+    rpcBaseURL: "https://delphinet.smartpy.io",
+    tzStats: TZStatsNetwork.Delphinet,
+    color: "#b3000",
+    disabled: false,
+  },
+  {
     id: "carthagenet",
     name: "Carthage Testnet",
     description: "Carthage testnet",
